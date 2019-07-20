@@ -1,6 +1,6 @@
 ## Criando uma api usando flask manualmente.
 
-### Endpoint /user/<id> 
+### Endpoint /user/id 
 Retorna informações sobre um usuario especifico
 
 ```json
